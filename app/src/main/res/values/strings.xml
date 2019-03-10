@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Template</string>
+
+
+    <string name="id">ID</string>
+    <string name="nodeId">node ID</string>
+    <string name="name">name</string>
+    <string name="fullName">fullName</string>
+
+
+    <string name="waiting">잠시만 기다려주세요.</string>
+    <string name="networkError">서버와의 연결이 원활하지 않습니다.</string>
+
+</resources>
